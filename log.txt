@@ -1,1 +1,2 @@
 pretend this is log file
+hello log
